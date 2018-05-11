@@ -2,8 +2,6 @@
 
 // https://www.hackerrank.com/challenges/crush/problem
 
-<?php
-
 /*
  * Complete the arrayManipulation function below.
  */
